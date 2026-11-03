@@ -6,9 +6,12 @@ LDLIBS += -pthread
 TARGET = sync_car
 OBJECTS = sync_car.o sync_car-runner.o
 
-.PHONY: all clean
+.PHONY: all run clean
 
 all: $(TARGET)
+
+run: $(TARGET)
+	./$(TARGET)
 
 $(TARGET): $(OBJECTS)
 	$(CC) $(LDFLAGS) -o $@ $(OBJECTS) $(LDLIBS)

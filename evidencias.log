@@ -311,4 +311,64 @@ gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
 /usr/bin/ld: sync_car-runner.o: na função "main":
 /home/bdmf/Code/SO/IMP5/sync_car-runner.c:78:(.text+0x169): referência não definida para "station_load_car"
 /usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:79:(.text+0x17d): referência não definida para "station_load_car"
-/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:95:(.text+0x238): referência não definida para "
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:95:(.text+0x238): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:131:(.text+0x3fd): referência não definida para "station_on_board"
+collect2: error: ld returned 1 exit status
+make: *** [Makefile:14: sync_car] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clean
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add sync_car-runner.c sync_car.c su[Kync_car.h \[KMakefile evidencias.log 
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git commit -m "add[K[K[Kadd station wait"
+[?2004l[master 29b1d4d] add station wait
+ 4 files changed, 365 insertions(+), 352 deletions(-)
+ create mode 100644 Makefile
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git push
+[?2004lEnumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 4.39 KiB | 2.20 MiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:BrennoDornelasMF/Sincronizacao_do_Metro.git
+   067004f..29b1d4d  master -> master
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
+/usr/bin/ld: sync_car-runner.o: na função "load_car_thread":
+/home/bdmf/Code/SO/IMP5/sync_car-runner.c:39:(.text+0x5f): referência não definida para "station_load_car"
+/usr/bin/ld: sync_car-runner.o: na função "main":
+/home/bdmf/Code/SO/IMP5/sync_car-runner.c:78:(.text+0x169): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:79:(.text+0x17d): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:95:(.text+0x238): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:131:(.text+0x3fd): referência não definida para "station_on_board"
+collect2: error: ld returned 1 exit status
+make: *** [Makefile:14: sync_car] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ run[K[K[Kmake run
+[?2004lmake: *** Sem regra para processar o alvo 'run'.  Pare.
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ run
+[?2004lComando 'run' não encontrado, você quis dizer:
+  comando 'rue' do snap darkdimension-rue (1.0.7)
+  comando 'rn' do deb trn4 (4.0-test77-16)
+  comando 'runq' do deb exim4-daemon-heavy (4.97-4ubuntu4.6)
+  comando 'runq' do deb exim4-daemon-light (4.97-4ubuntu4.6)
+  comando 'runq' do deb sendmail-bin (8.17.2-1)
+  comando 'grun' do deb grun (0.9.3+git20200303-3)
+  comando 'srun' do deb slurm-client (23.02.6-1ubuntu2)
+  comando 'zrun' do deb moreutils (0.67-1)
+  comando 'zun' do deb python3-zunclient (4.7.0-0ubuntu1)
+  comando 'runc' do deb runc (1.3.4-0ubuntu1~24.04.1)
+  comando 'rup' do deb rstat-client (4.0.1-11)
+  comando 'crun' do deb crun (1.12-1)
+Veja 'snap info <snapname>' para versões adicionais.
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ ./sync_[1Psync_\sync_[C[C[C[C[C[K[K[K[K[K[K[K./.[Ksys[Knc_car.o
+[?2004lbash: ./sync_car.o: Permissão negada
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ mae[Kle[K[Kke clena
+[?2004lmake: *** Sem regra para processar o alvo 'clena'.  Pare.
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clena[K[Kam[Kn
+[?2004lrm -f sync_car sync_car.o sync_car-ru

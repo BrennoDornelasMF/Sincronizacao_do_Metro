@@ -66,3 +66,28 @@ void station_wait_for_car(struct station *station)
         "liberar o mutex da estação"
     );
 }
+
+
+void station_on_board(struct station *station)
+{
+    check_pthread(
+        pthread_mutex_lock(&station->lock),
+        "adquirir o mutex da estação"
+    );
+
+    station->boarding_passengers--;
+
+    if (station->boarding_passengers == 0 &&
+        (station->available_seats == 0 ||
+         station->waiting_passengers == 0)) {
+        check_pthread(
+            pthread_cond_signal(&station->boarding_changed),
+            "avisar o carro sobre a conclusão do embarque"
+        );
+    }
+
+    check_pthread(
+        pthread_mutex_unlock(&station->lock),
+        "liberar o mutex da estação"
+    );
+}
