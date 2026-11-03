@@ -1,0 +1,314 @@
+Script iniciado em 2026-11-03 13:27:36-03:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="125" LINES="13"]
+[?25l[?7l[0m[31m[1m            .-/+oossssoo+/-.
+        `:+ssssssssssssssssss+:`
+      -+ssssssssssssssssssyyssss+-
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss/
+  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss/
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
+  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
+   /sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.[0m
+[20A[9999999D[43C[0m[1m[31m[1mbdmf[0m@[31m[1mbdmf-Vostro-15-3510[0m 
+[43C[0m------------------------[0m 
+[43C[0m[31m[1mOS[0m[0m:[0m Ubuntu 24.04.5 LTS x86_64[0m 
+[43C[0m[31m[1mHost[0m[0m:[0m Vostro 15 3510[0m 
+[43C[0m[31m[1mKernel[0m[0m:[0m 6.14.0-37-generic[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 26 mins[0m 
+[43C[0m[31m[1mPackages[0m[0m:[0m 2952 (dpkg), 15 (flatpak), 43 (snap)[0m 
+[43C[0m[31m[1mShell[0m[0m:[0m bash 5.2.21[0m 
+[43C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[43C[0m[31m[1mDE[0m[0m:[0m GNOME 46.0[0m 
+[43C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[43C[0m[31m[1mWM Theme[0m[0m:[0m Yaru-purple-dark[0m 
+[43C[0m[31m[1mTheme[0m[0m:[0m Yaru-purple-dark [GTK2/3][0m 
+[43C[0m[31m[1mIcons[0m[0m:[0m Yaru-purple [GTK2/3][0m 
+[43C[0m[31m[1mTerminal[0m[0m:[0m vscode[0m 
+[43C[0m[31m[1mCPU[0m[0m:[0m Intel i5-1035G1 (8) @ 3.600GHz[0m 
+[43C[0m[31m[1mGPU[0m[0m:[0m Intel Iris Plus Graphics G1[0m 
+[43C[0m[31m[1mMemory[0m[0m:[0m 6231MiB / 15649MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ date
+[?2004lter 03 nov 2026 13:27:45 -03
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ whoima[K[Kam[[K
+[?2004lwhoiam: comando não encontrado
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ whoiam[K[K[Kami
+[?2004lbdmf
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ ped[K[Kwd
+[?2004l/home/bdmf/Code/SO/IMP5
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add[K[K[K[K[K[K[K
+[7mgit add -- sync_car-runner.c sync_car.c sync_car.h evidencias.log[27mgit add -- sync_car-runner.c sync_car.c sync_car.h evidencias.log
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git commit -m "Add arquivos iniciais [K"
+[?2004l[master (root-commit) a4ab4a0] Add arquivos iniciais
+ 4 files changed, 529 insertions(+)
+ create mode 100644 evidencias.log
+ create mode 100644 sync_car-runner.c
+ create mode 100644 sync_car.c
+ create mode 100644 sync_car.h
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git push
+[?2004lfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [7m    git push --set-upstream origin master[27m    git push --set-upstream origin master
+[?2004lEnumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 1.82 KiB | 1.82 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:BrennoDornelasMF/Sincronizacao_do_Metro.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add sync_car.h 
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git commit -m "add struct station"
+[?2004l[master d74c6ee] add struct station
+ 1 file changed, 27 insertions(+)
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add sync_car.c [K
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git ac[K[Kcommit -mm[K "start station init"
+[?2004l[master 067004f] start station init
+ 1 file changed, 37 insertions(+)
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gid[Kf [K[Kt push
+[?2004lEnumerating objects: 9, done.
+Counting objects:  12% (1/8)Counting objects:  25% (2/8)Counting objects:  37% (3/8)Counting objects:  50% (4/8)Counting objects:  62% (5/8)Counting objects:  75% (6/8)Counting objects:  87% (7/8)Counting objects: 100% (8/8)Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 1.11 KiB | 1.11 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:BrennoDornelasMF/Sincronizacao_do_Metro.git
+   a4ab4a0..067004f  master -> master
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ gcc [[K[K[K[K[Kmake
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:130:33:[m[K [01;31m[Kerror: [m[K‘[01m[Kthr[m[K’ undeclared (first use in this function)
+  130 |                                 [01;31m[Kthr[m[K// SPDX-License-Identifier: GPL-3.0
+      |                                 [01;31m[K^~~[m[K
+[01m[Ksync_car-runner.c:130:33:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[Ksync_car-runner.c:130:36:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kvolatile[m[K’
+  130 |                                 thr[01;31m[K/[m[K/ SPDX-License-Identifier: GPL-3.0
+      |                                    [01;31m[K^[m[K
+      |                                    [32m[K;[m[K
+......
+  157 | [32m[Kvolatile[m[K int threads_completed = 0;
+      | [32m[K~~~~~~~~[m[K                            
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:192:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  192 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:204:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ is normally a non-static function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+  204 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:326:7:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kpassenger_thread[m[K’
+  326 | void *[01;31m[Kpassenger_thread[m[K(void *arg)
+      |       [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:159:7:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kpassenger_thread[m[K’ with type ‘[01m[Kvoid *(void *)[m[K’
+  159 | void *[01;36m[Kpassenger_thread[m[K(void *arg)
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:334:8:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kstruct load_car_args[m[K’
+  334 | struct [01;31m[Kload_car_args[m[K {
+      |        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:167:8:[m[K [01;36m[Knote: [m[Koriginally defined here
+  167 | struct [01;36m[Kload_car_args[m[K {
+      |        [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:339:14:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kload_car_returned[m[K’
+  339 | volatile int [01;31m[Kload_car_returned[m[K = 0;
+      |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:172:14:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kload_car_returned[m[K’ with type ‘[01m[Kint[m[K’
+  172 | volatile int [01;36m[Kload_car_returned[m[K = 0;
+      |              [01;36m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:341:7:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kload_car_thread[m[K’
+  341 | void *[01;31m[Kload_car_thread[m[K(void *args)
+      |       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:174:7:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kload_car_thread[m[K’ with type ‘[01m[Kvoid *(void *)[m[K’
+  174 | void *[01;36m[Kload_car_thread[m[K(void *args)
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:349:13:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kalarm_error_str[m[K’ with no linkage
+  349 | const char *[01;31m[Kalarm_error_str[m[K;
+      |             [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:182:13:[m[K [01;36m[Knote: [m[Kprevious declaration of ‘[01m[Kalarm_error_str[m[K’ with type ‘[01m[Kconst char *[m[K’
+  182 | const char *[01;36m[Kalarm_error_str[m[K;
+      |             [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:350:5:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kalarm_timeout[m[K’ with no linkage
+  350 | int [01;31m[Kalarm_timeout[m[K;
+      |     [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:183:5:[m[K [01;36m[Knote: [m[Kprevious declaration of ‘[01m[Kalarm_timeout[m[K’ with type ‘[01m[Kint[m[K’
+  183 | int [01;36m[Kalarm_timeout[m[K;
+      |     [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:352:6:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[K_alarm[m[K’
+  352 | void [01;31m[K_alarm[m[K(int seconds, const char *error_str)
+      |      [01;31m[K^~~~~~[m[K
+[01m[Ksync_car-runner.c:185:6:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[K_alarm[m[K’ with type ‘[01m[Kvoid(int,  const char *)[m[K’
+  185 | void [01;36m[K_alarm[m[K(int seconds, const char *error_str)
+      |      [01;36m[K^~~~~~[m[K
+[01m[Ksync_car-runner.c:359:6:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kalarm_handler[m[K’
+  359 | void [01;31m[Kalarm_handler[m[K(int foo)
+      |      [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:192:6:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kalarm_handler[m[K’ with type ‘[01m[Kvoid(int)[m[K’
+  192 | void [01;36m[Kalarm_handler[m[K(int foo)
+      |      [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:359:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  359 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:371:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ is normally a non-static function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+  371 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:371:5:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kmain[m[K’
+[01m[Ksync_car-runner.c:204:5:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kmain[m[K’ with type ‘[01m[Kint(void)[m[K’
+  204 | int [01;36m[Kmain[m[K(void)
+      |     [01;36m[K^~~~[m[K
+[01m[Ksync_car-runner.c:482:2:[m[K [01;31m[Kerror: [m[K‘[01m[Keads_reaped[m[K’ undeclared (first use in this function); did you mean ‘[01m[Kthreads_reaped[m[K’?
+  482 | }[01;31m[Keads_reaped[m[K++;
+      |  [01;31m[K^~~~~~~~~~~[m[K
+      |  [32m[Kthreads_reaped[m[K
+[01m[Ksync_car-runner.c:[m[K At top level:
+[01m[Ksync_car-runner.c:371:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ defined but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-function-Wunused-function]8;;[m[K]
+  371 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:204:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ defined but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-function-Wunused-function]8;;[m[K]
+  204 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+make: *** [Makefile:17: sync_car-runner.o] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clen[Kan
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:130:33:[m[K [01;31m[Kerror: [m[K‘[01m[Kthr[m[K’ undeclared (first use in this function)
+  130 |                                 [01;31m[Kthr[m[K// SPDX-License-Identifier: GPL-3.0
+      |                                 [01;31m[K^~~[m[K
+[01m[Ksync_car-runner.c:130:33:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[Ksync_car-runner.c:130:36:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kvolatile[m[K’
+  130 |                                 thr[01;31m[K/[m[K/ SPDX-License-Identifier: GPL-3.0
+      |                                    [01;31m[K^[m[K
+      |                                    [32m[K;[m[K
+......
+  157 | [32m[Kvolatile[m[K int threads_completed = 0;
+      | [32m[K~~~~~~~~[m[K                            
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:192:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  192 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:204:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ is normally a non-static function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+  204 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:326:7:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kpassenger_thread[m[K’
+  326 | void *[01;31m[Kpassenger_thread[m[K(void *arg)
+      |       [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:159:7:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kpassenger_thread[m[K’ with type ‘[01m[Kvoid *(void *)[m[K’
+  159 | void *[01;36m[Kpassenger_thread[m[K(void *arg)
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:334:8:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kstruct load_car_args[m[K’
+  334 | struct [01;31m[Kload_car_args[m[K {
+      |        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:167:8:[m[K [01;36m[Knote: [m[Koriginally defined here
+  167 | struct [01;36m[Kload_car_args[m[K {
+      |        [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:339:14:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kload_car_returned[m[K’
+  339 | volatile int [01;31m[Kload_car_returned[m[K = 0;
+      |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:172:14:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kload_car_returned[m[K’ with type ‘[01m[Kint[m[K’
+  172 | volatile int [01;36m[Kload_car_returned[m[K = 0;
+      |              [01;36m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:341:7:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kload_car_thread[m[K’
+  341 | void *[01;31m[Kload_car_thread[m[K(void *args)
+      |       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:174:7:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kload_car_thread[m[K’ with type ‘[01m[Kvoid *(void *)[m[K’
+  174 | void *[01;36m[Kload_car_thread[m[K(void *args)
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:349:13:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kalarm_error_str[m[K’ with no linkage
+  349 | const char *[01;31m[Kalarm_error_str[m[K;
+      |             [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:182:13:[m[K [01;36m[Knote: [m[Kprevious declaration of ‘[01m[Kalarm_error_str[m[K’ with type ‘[01m[Kconst char *[m[K’
+  182 | const char *[01;36m[Kalarm_error_str[m[K;
+      |             [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:350:5:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kalarm_timeout[m[K’ with no linkage
+  350 | int [01;31m[Kalarm_timeout[m[K;
+      |     [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:183:5:[m[K [01;36m[Knote: [m[Kprevious declaration of ‘[01m[Kalarm_timeout[m[K’ with type ‘[01m[Kint[m[K’
+  183 | int [01;36m[Kalarm_timeout[m[K;
+      |     [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:352:6:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[K_alarm[m[K’
+  352 | void [01;31m[K_alarm[m[K(int seconds, const char *error_str)
+      |      [01;31m[K^~~~~~[m[K
+[01m[Ksync_car-runner.c:185:6:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[K_alarm[m[K’ with type ‘[01m[Kvoid(int,  const char *)[m[K’
+  185 | void [01;36m[K_alarm[m[K(int seconds, const char *error_str)
+      |      [01;36m[K^~~~~~[m[K
+[01m[Ksync_car-runner.c:359:6:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kalarm_handler[m[K’
+  359 | void [01;31m[Kalarm_handler[m[K(int foo)
+      |      [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:192:6:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kalarm_handler[m[K’ with type ‘[01m[Kvoid(int)[m[K’
+  192 | void [01;36m[Kalarm_handler[m[K(int foo)
+      |      [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:359:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  359 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Ksync_car-runner.c:371:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ is normally a non-static function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+  371 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:371:5:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kmain[m[K’
+[01m[Ksync_car-runner.c:204:5:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Kmain[m[K’ with type ‘[01m[Kint(void)[m[K’
+  204 | int [01;36m[Kmain[m[K(void)
+      |     [01;36m[K^~~~[m[K
+[01m[Ksync_car-runner.c:482:2:[m[K [01;31m[Kerror: [m[K‘[01m[Keads_reaped[m[K’ undeclared (first use in this function); did you mean ‘[01m[Kthreads_reaped[m[K’?
+  482 | }[01;31m[Keads_reaped[m[K++;
+      |  [01;31m[K^~~~~~~~~~~[m[K
+      |  [32m[Kthreads_reaped[m[K
+[01m[Ksync_car-runner.c:[m[K At top level:
+[01m[Ksync_car-runner.c:371:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ defined but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-function-Wunused-function]8;;[m[K]
+  371 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+[01m[Ksync_car-runner.c:204:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kmain[m[K’ defined but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-function-Wunused-function]8;;[m[K]
+  204 | int [01;35m[Kmain[m[K(void)
+      |     [01;35m[K^~~~[m[K
+make: *** [Makefile:17: sync_car-runner.o] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clean
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
+/usr/bin/ld: sync_car-runner.o: na função "load_car_thread":
+/home/bdmf/Code/SO/IMP5/sync_car-runner.c:39:(.text+0x5f): referência não definida para "station_load_car"
+/usr/bin/ld: sync_car-runner.o: na função "main":
+/home/bdmf/Code/SO/IMP5/sync_car-runner.c:78:(.text+0x169): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:79:(.text+0x17d): referência não definida para "station_load_car"
+/usr/bin/ld: /home/bdmf/Code/SO/IMP5/sync_car-runner.c:95:(.text+0x238): referência não definida para "

@@ -35,3 +35,34 @@ void station_init(struct station *station)
         "inicializar a condição de atualização do embarque"
     );
 }
+
+
+void station_wait_for_car(struct station *station)
+{
+    check_pthread(
+        pthread_mutex_lock(&station->lock),
+        "adquirir o mutex da estação"
+    );
+
+    station->waiting_passengers++;
+
+    while (!station->boarding_open ||
+           station->available_seats== 0) {
+        check_pthread(
+            pthread_cond_wait(
+                &station->car_available,
+                &station->lock
+            ),
+            "aguardar uma vaga no carro"
+        );
+    }
+
+    station->available_seats--;
+    station->waiting_passengers--;
+    station->boarding_passengers++;
+
+    check_pthread(
+        pthread_mutex_unlock(&station->lock),
+        "liberar o mutex da estação"
+    );
+}
