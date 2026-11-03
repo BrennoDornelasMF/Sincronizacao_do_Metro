@@ -425,4 +425,35 @@ make: *** [Makefile:14: run] Erro 1
 [?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
 gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
 [01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
-[01m[Ksync_car-runn
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
+./sync_car
+car entering station with 18 free seats
+car departed station with 18 new passenger(s) (expected 18)
+car entering station with 44 free seats
+car departed station with 44 new passenger(s) (expected 44)
+car entering station with 40 free seats
+car departed station with 38 new passenger(s) (expected 38)
+Looks good!
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make claen[K[K[Ka[Kean
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make run
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
+./sync_car
+car entering station with 24 free seats
+Error: Failed to complete after 2 seconds. Something's wrong, or your system is terribly slow. Possible error hint: [Some more complicated issue appears to have caused passengers not to board when given the opportunity]
+make: *** [Makefile:14: run] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add [K[K[K[K[K[K[K[Kmake clean
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ ma[K[Kgir a[K[K[Kt add sync_car.c evidencias.log 
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git a[Kcommit -m "add[K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git commit -m "add station load car"
+[?2004l[master 9422e5c] add station load car
+ 2 files changed, 90 insertions(+), 1
