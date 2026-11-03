@@ -97,10 +97,6 @@ Ao concluir com sucesso, a saída termina com:
 Looks good!
 ```
 
-Em caso de falha detectada pelo runner, o programa mostra uma mensagem de erro e termina com status diferente de zero. Posso consultar o status imediatamente após a execução com `echo $?`.
-
-Uma execução bem-sucedida não demonstra todos os escalonamentos possíveis. Para ampliar a verificação, posso repetir o teste e complementar com cenários controlados de capacidade exata, excesso de passageiros e confirmações atrasadas.
-
 ## Como limpar
 
 Para remover o executável e os arquivos objeto, executo:
@@ -117,4 +113,3 @@ Centralizei a verificação dos retornos Pthreads em `check_pthread`. Quando uma
 
 Minha implementação pressupõe quantidade de assentos não negativa, uma confirmação para cada reserva e apenas um carro atendendo cada estação por vez. Não implementei validação para chamadas fora desse contrato, cancelamento de passageiros nem garantia de atendimento em ordem de chegada.
 
-O runner ainda apresenta um aviso de compilação sobre o parâmetro `foo` não utilizado em `alarm_handler`. Esse aviso não impede a geração do executável. O teste também possui consultas repetidas a variáveis e usa `volatile` em dados compartilhados, o que exige cuidado ao interpretar seus resultados; a ausência de espera ocupada descrita neste README se refere às funções de sincronização em `sync_car.c`.
