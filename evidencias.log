@@ -371,4 +371,58 @@ Veja 'snap info <snapname>' para versões adicionais.
 [?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ mae[Kle[K[Kke clena
 [?2004lmake: *** Sem regra para processar o alvo 'clena'.  Pare.
 [?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clena[K[Kam[Kn
-[?2004lrm -f sync_car sync_car.o sync_car-ru
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add , [K[KMakefile sync_car-runner.c [1P[1P[1P[1P[1P[1P[1P[C[C[Cevidencias.log 
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git a[Kcommit -m "add sts[Kation on borad[K[K[Koas[K[K[Kard"
+[?2004l[master f9f25ab] add station on board
+ 3 files changed, 90 insertions(+), 2 deletions(-)
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git add README 
+[?2004l[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git commit -m "add README"
+[?2004l[master 9cac832] add README
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ git push
+[?2004lEnumerating objects: 12, done.
+Counting objects:   8% (1/12)Counting objects:  16% (2/12)Counting objects:  25% (3/12)Counting objects:  33% (4/12)Counting objects:  41% (5/12)Counting objects:  50% (6/12)Counting objects:  58% (7/12)Counting objects:  66% (8/12)Counting objects:  75% (9/12)Counting objects:  83% (10/12)Counting objects:  91% (11/12)Counting objects: 100% (12/12)Counting objects: 100% (12/12), done.
+Delta compression using up to 8 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  12% (1/8)Writing objects:  25% (2/8)Writing objects:  37% (3/8)Writing objects:  50% (4/8)Writing objects:  62% (5/8)Writing objects:  75% (6/8)Writing objects:  87% (7/8)Writing objects: 100% (8/8)Writing objects: 100% (8/8), 1.85 KiB | 632.00 KiB/s, done.
+Total 8 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), completed with 3 local objects.[K
+To github.com:BrennoDornelasMF/Sincronizacao_do_Metro.git
+   29b1d4d..9cac832  master -> master
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+gcc  -o sync_car sync_car.o sync_car-runner.o -pthread
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ run
+[?2004lComando 'run' não encontrado, você quis dizer:
+  comando 'rue' do snap darkdimension-rue (1.0.7)
+  comando 'runq' do deb exim4-daemon-heavy (4.97-4ubuntu4.6)
+  comando 'runq' do deb exim4-daemon-light (4.97-4ubuntu4.6)
+  comando 'runq' do deb sendmail-bin (8.17.2-1)
+  comando 'zun' do deb python3-zunclient (4.7.0-0ubuntu1)
+  comando 'rn' do deb trn4 (4.0-test77-16)
+  comando 'grun' do deb grun (0.9.3+git20200303-3)
+  comando 'zrun' do deb moreutils (0.67-1)
+  comando 'rup' do deb rstat-client (4.0.1-11)
+  comando 'srun' do deb slurm-client (23.02.6-1ubuntu2)
+  comando 'crun' do deb crun (1.12-1)
+  comando 'runc' do deb runc (1.3.4-0ubuntu1~24.04.1)
+Veja 'snap info <snapname>' para versões adicionais.
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make run
+[?2004l./sync_car
+car entering station with 49 free seats
+Error: station_load_car returned early!
+make: *** [Makefile:14: run] Erro 1
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ [K]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make clean[[K
+[?2004lrm -f sync_car sync_car.o sync_car-runner.o
+[?2004h]0;bdmf@bdmf-Vostro-15-3510: ~/Code/SO/IMP5[01;32mbdmf@bdmf-Vostro-15-3510[00m:[01;34m~/Code/SO/IMP5[00m$ make run
+[?2004lgcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car.c -o sync_car.o
+gcc  -std=gnu11 -Wall -Wextra -g -pthread -c sync_car-runner.c -o sync_car-runner.o
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runn

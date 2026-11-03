@@ -91,3 +91,38 @@ void station_on_board(struct station *station)
         "liberar o mutex da estação"
     );
 }
+void station_load_car(struct station *station, int count)
+{
+    check_pthread(
+        pthread_mutex_lock(&station->lock),
+        "adquirir o mutex da estação"
+    );
+
+    station->available_seats = count;
+    station->boarding_open = 1;
+
+    check_pthread(
+        pthread_cond_broadcast(&station->car_available),
+        "avisar os passageiros sobre as vagas"
+    );
+
+    while (station->boarding_passengers > 0 ||
+           (station->available_seats > 0 &&
+            station->waiting_passengers > 0)) {
+        check_pthread(
+            pthread_cond_wait(
+                &station->boarding_changed,
+                &station->lock
+            ),
+            "aguardar a conclusão dos embarques"
+        );
+    }
+
+    station->boarding_open = 0;
+    station->available_seats = 0;
+
+    check_pthread(
+        pthread_mutex_unlock(&station->lock),
+        "liberar o mutex da estação"
+    );
+}
